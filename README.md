@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **3.JS**
 
-- 👨‍💻 All of my projects are available at [https://mesum-abbas357.netlify.app/](https://mesum-abbas357.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mesumabbas.online/](https://mesumabbas.online/)
 
 - 📫 How to reach me **i.mesumabbas@gmail.com**
 
