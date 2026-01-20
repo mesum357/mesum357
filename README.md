@@ -9,9 +9,6 @@
 
 - 🌱 I’m currently learning **3.JS**
 
-
-- 📫 How to reach me **i.mesumabbas@gmail.com**
-
 - ⚡ Fun fact **I think I am Funny😁😁**
 
 <h3 align="left">Connect with me:</h3>
