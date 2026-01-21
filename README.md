@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mesum Abbas</h1>
-<h3 align="center">I’m Mesum Abbas — a full‑stack web developer who builds fast, accessible, and beautiful web applications. I focus on React/Next.js frontends, Node.js backends, and clean, maintainable code. I also run freelancing skills training to help other developers grow.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I’m a full‑stack web developer who builds fast, accessible, and beautiful web applications. I focus on React/Next.js frontends, Node.js backends, and clean, maintainable code. I also run freelancing skills training to help other developers grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesum357&label=Profile%20views&color=0e75b6&style=flat" alt="mesum357" /> </p>
 
